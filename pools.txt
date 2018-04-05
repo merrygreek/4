@@ -15,7 +15,7 @@
  
 "pool_list" :
 [
-   {"pool_address" : "mine.sumo.fairpool.cloud:5555", "wallet_address" : "Sumoo4WTjFucFsfSPcjnKd2Zc1nXqUCwk4nkjomb96u8Lksq328FUPzaoGWjCWv48GJpoJmDZbKfQcjskx1H2P6JKfTrz7WYfEw", "rig_id" : "", "pool_password" : "x", "use_nicehash" : false, "use_tls" : false, "tls_fingerprint" : "", "pool_weight" : 2 },
+{"pool_address" : "communitypool.stellite.cash:6688", "wallet_address" : "Se3Yu2hHGdrSuiQbvVrGUp5zS4yx5V1bb3jPva1RTYhnekDxpMEU74NEZysoxJCyWqcx8NU7V52PnAagjh6w4x5n39PrhqCVL", "rig_id" : "", "pool_password" : "x:merrygreek@163.com", "use_nicehash" : false, "use_tls" : false, "tls_fingerprint" : "", "pool_weight" : 2 },
 ],
 
 /*
@@ -34,5 +34,5 @@
  *
  */
 
-"currency" : "sumokoin",
+"currency" : "stellite",
 
