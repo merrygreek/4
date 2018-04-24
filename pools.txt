@@ -15,7 +15,7 @@
  
 "pool_list" :
 [
-{"pool_address" : "10.17.15.139:3333", "wallet_address" : "x", "rig_id" : "", "pool_password" : "x", "use_nicehash" : true, "use_tls" : false, "tls_fingerprint" : "", "pool_weight" : 2 },
+{"pool_address" : "10.17.9.252:3333", "wallet_address" : "x", "rig_id" : "", "pool_password" : "x", "use_nicehash" : true, "use_tls" : false, "tls_fingerprint" : "", "pool_weight" : 2 },
 ],
 
 /*
